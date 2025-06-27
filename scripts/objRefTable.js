@@ -75,7 +75,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Exps.len,
 		C3.Plugins.TextBox.Cnds.OnTextChanged,
 		C3.Plugins.System.Exps.regexreplace,
-		C3.Plugins.System.Exps.find,
+		C3.Plugins.System.Cnds.RegexTest,
 		C3.Plugins.System.Cnds.IsGroupActive,
 		C3.Plugins.System.Acts.ResetGlobals,
 		C3.Plugins.Arr.Acts.SetSize,
